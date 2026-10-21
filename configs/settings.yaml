@@ -1,0 +1,10 @@
+default_agent: po
+
+default_output_language: id
+
+max_retry: 3
+
+framework:
+  backend: go-gin
+  frontend: react
+  mobile: react-native

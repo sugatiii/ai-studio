@@ -1,0 +1,29 @@
+po:
+  model: nvidia/nemotron-3-ultra-550b-a55b:free
+
+architect:
+  model: nvidia/nemotron-3-ultra-550b-a55b:free
+
+api_contract:
+  model: nvidia/nemotron-3-ultra-550b-a55b:free
+
+jira:
+  model: nvidia/nemotron-3-super-120b-a12b:free
+
+backend:
+  model: cohere/north-mini-code:free
+
+frontend:
+  model: cohere/north-mini-code:free
+
+mobile:
+  model: cohere/north-mini-code:free
+
+reviewer:
+  model: nvidia/nemotron-3-ultra-550b-a55b:free
+
+qa:
+  model: nvidia/nemotron-3-super-120b-a12b:free
+
+devops:
+  model: nvidia/nemotron-3-super-120b-a12b:free
