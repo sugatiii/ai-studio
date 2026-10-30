@@ -5,6 +5,5 @@ venv/
 env/
 
 # Mengabaikan folder runtime atau cache proyek
-runtime/
 __pycache__/
 *.pyc
