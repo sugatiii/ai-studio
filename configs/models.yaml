@@ -1,3 +1,9 @@
+business_enablement:
+  model: nvidia/nemotron-3-ultra-550b-a55b:free
+
+uiux:
+  model: nvidia/nemotron-3-ultra-550b-a55b:free
+
 po:
   model: nvidia/nemotron-3-ultra-550b-a55b:free
 
@@ -8,7 +14,7 @@ api_contract:
   model: nvidia/nemotron-3-ultra-550b-a55b:free
 
 jira:
-  model: nvidia/nemotron-3-super-120b-a12b:free
+  model: nvidia/nemotron-3-ultra-550b-a55b:free
 
 backend:
   model: cohere/north-mini-code:free
@@ -23,7 +29,13 @@ reviewer:
   model: nvidia/nemotron-3-ultra-550b-a55b:free
 
 qa:
-  model: nvidia/nemotron-3-super-120b-a12b:free
+  model: nvidia/nemotron-3.5-lightning:free
 
 devops:
-  model: nvidia/nemotron-3-super-120b-a12b:free
+  model: nvidia/nemotron-3.5-lightning:free
+
+story_generator:
+  model: nvidia/nemotron-3-ultra-550b-a55b:free
+
+story_detail_generator:
+  model: nvidia/nemotron-3-ultra-550b-a55b:free

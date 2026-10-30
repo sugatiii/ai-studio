@@ -50,6 +50,20 @@ knowledge/database-rules.md
 
 knowledge/best-practice.md
 
+knowledge/business-principles.md
+
+knowledge/uiux-guidelines.md
+
+knowledge/testing-strategy.md
+
+knowledge/devops-standards.md
+
+knowledge/project-standards.md
+
+knowledge/documentation-standard.md
+
+knowledge/non-functional-requirements.md
+
 ---
 
 ### Agent Rules
